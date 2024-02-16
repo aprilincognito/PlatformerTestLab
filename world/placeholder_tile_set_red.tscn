@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://1x5lsurxpkxh"]
+
+[node name="PlaceholderTileSetRed" type="TileMap"]
+format = 2

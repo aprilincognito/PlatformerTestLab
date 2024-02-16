@@ -1,0 +1,8 @@
+## Platformer Framework Godot 4 ##
+
+Settings:
+W 1280
+H 720
+
+Default Texture - Nearest
+
